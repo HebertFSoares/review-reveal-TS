@@ -23,6 +23,16 @@
 
 - Adivinhe o Filme: Leia a sinopse apresentada e adivinhe o título do filme. Acerte para ganhar pontos e avançar no jogo.
 
+### Como Contribuir:
+- Se você é apaixonado por cinema e desenvolvimento, há várias maneiras de contribuir:
+
+- Reporte Problemas: Encontrou um bug ou tem uma sugestão? Abra uma "issue" e colabore conosco.
+
+- Envie Melhorias: Tem ideias para aprimorar a experiência do jogo? Fique à vontade para enviar um "pull request".
+
+- Espalhe a Palavra: Ama o jogo? Compartilhe com amigos e nas redes sociais para expandir nossa comunidade.
+
+
 ## 🤝 Desenvolvedores
 
 Projeto desenvolvido no `Orion Bootcamp`
