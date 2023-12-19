@@ -17,7 +17,7 @@
 
 
 ### Como Jogar
-- Acesse o Quiz: Visite [URL do seu aplicativo] para começar a desafiar seus conhecimentos em filmes.
+- Acesse o Quiz: para começar a desafiar seus conhecimentos em filmes.
 
 - Registre-se ou Faça Login: Crie uma conta ou faça login para desbloquear recursos exclusivos e competir no placar de líderes.
 
